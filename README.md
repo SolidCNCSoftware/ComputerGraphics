@@ -10,7 +10,7 @@ Bu projede, Three.js kullanarak 3D grafikler oluşturma, sahne yönetimi, kamera
 
 1. **Git ile Repo'yu Klonlayın**
    ```bash
-   git clone https://github.com/kullanici_adi/proje_adi.git
+   git clone https://github.com/SolidCNCSoftware/ComputerGraphics.git
 
 ## Ders İçeriği
 
