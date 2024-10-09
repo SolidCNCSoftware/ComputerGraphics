@@ -2,16 +2,6 @@
 
 Bu repository, üniversite öğrencileri için bilgisayar grafikleri dersi kapsamında Three.js kütüphanesini kullanarak grafiksel uygulamalar geliştirmeye yönelik bir kaynak sunmaktadır.
 
-## İçindekiler
-
-- [Proje Hakkında](#proje-hakkında)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Ders İçeriği](#ders-içeriği)
-- [Kaynaklar](#kaynaklar)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
-
 ## Proje Hakkında
 
 Bu projede, Three.js kullanarak 3D grafikler oluşturma, sahne yönetimi, kamera kontrolü ve ışıklandırma gibi temel kavramları öğreneceksiniz. Proje, grafik programlama becerilerinizi geliştirmenizi amaçlamaktadır.
