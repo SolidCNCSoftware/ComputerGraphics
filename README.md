@@ -10,6 +10,9 @@ Bu repository, üniversite öğrencileri için bilgisayar grafikleri dersi kapsa
 ## Proje Hakkında
 
 Bu projede, Three.js kullanarak 3D grafikler oluşturma, sahne yönetimi, kamera kontrolü ve ışıklandırma gibi temel kavramları öğreneceksiniz. Proje, grafik programlama becerilerinizi geliştirmenizi amaçlamaktadır.
+<div align="center">
+    <img src="images/scene.mp4" width="45%" alt="Video">
+</div>
 
 ## Kurulum
 
