@@ -1,6 +1,11 @@
-# Bilgisayar Grafikleri - Three.js Dersi
+# Bilgisayar Grafikleri Dersi
 
 Bu repository, üniversite öğrencileri için bilgisayar grafikleri dersi kapsamında Three.js kütüphanesini kullanarak grafiksel uygulamalar geliştirmeye yönelik bir kaynak sunmaktadır.
+
+<div align="center">
+    <img src="images/images1.png" width="45%" alt="Image 1">
+    <img src="images/images2.png" width="45%" alt="Image 2">
+</div>
 
 ## Proje Hakkında
 
